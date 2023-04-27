@@ -1,7 +1,7 @@
 # Pen-Testing_1
 # Pen Testing Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -22,9 +22,6 @@ Vulnerability #1: __________________
 
 Description:
 
-https://submissions.us-east-1.linodeobjects.com/cyb102/eQ3phTCJ.gif
-
-
 ## Green
 
 Vulnerability #1: __________________
@@ -42,7 +39,8 @@ Description:
 
 <img src="red-vuln1.gif">
 
-
+# Gif
+https://submissions.us-east-1.linodeobjects.com/cyb102/eQ3phTCJ.gif
 ## Notes
 
 Describe any challenges encountered while doing the work

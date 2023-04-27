@@ -21,12 +21,13 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 Vulnerability #1: __________________
 
 Description:
-
+Gif - Everything included in one final gif
 ## Green
 
 Vulnerability #1: __________________
 
 Description:
+Gif - Everything included in one final gif
 
 <img src="green-vuln1.gif">
 
@@ -36,7 +37,7 @@ Description:
 Vulnerability #1: __________________
 
 Description:
-
+Gif - Everything included in one final gif
 <img src="red-vuln1.gif">
 
 # Gif
